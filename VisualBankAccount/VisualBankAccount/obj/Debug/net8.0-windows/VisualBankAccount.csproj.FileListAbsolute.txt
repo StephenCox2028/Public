@@ -1,0 +1,17 @@
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\bin\Debug\net8.0-windows\VisualBankAccount.exe
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\bin\Debug\net8.0-windows\VisualBankAccount.deps.json
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\bin\Debug\net8.0-windows\VisualBankAccount.runtimeconfig.json
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\bin\Debug\net8.0-windows\VisualBankAccount.dll
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\bin\Debug\net8.0-windows\VisualBankAccount.pdb
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\VisualBankAccount.BankAccount.resources
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\VisualBankAccount.csproj.GenerateResource.cache
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\VisualBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\VisualBankAccount.AssemblyInfoInputs.cache
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\VisualBankAccount.AssemblyInfo.cs
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\VisualBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\VisualBankAccount.dll
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\refint\VisualBankAccount.dll
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\VisualBankAccount.pdb
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\VisualBankAccount.genruntimeconfig.cache
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\ref\VisualBankAccount.dll
+C:\Users\ender\OneDrive\Desktop\Foundation in Applications\Projects\VisualBankAccount\VisualBankAccount\obj\Debug\net8.0-windows\VisualBankAccount.Bank.resources
